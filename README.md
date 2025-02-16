@@ -1,6 +1,6 @@
 # 🎡 Random File Picker  
 
-![App Demo](spin_the_wheel.gif)  
+ [App Demo](spin_the_wheel.gif)  
 
 **Spin the wheel and let fate pick your files!** 🎲✨  
 **Built with ❤️ by [Arvind Ranga](https://github.com/arvind69-devil)** 🐼  
