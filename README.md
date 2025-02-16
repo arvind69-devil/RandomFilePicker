@@ -1,6 +1,8 @@
+![spin_the_wheel](https://github.com/user-attachments/assets/e1fb1492-94cf-4285-a253-b5dbec2bda08)
 # 🎡 Random File Picker  
 
- [App Demo](spin_the_wheel.gif)  
+ [App Demo](spin_the_wheel.gif)  ![image](https://github.com/user-attachments/assets/2e37cae3-3f1e-4182-95d2-d4fbf716b0d1)
+
 
 **Spin the wheel and let fate pick your files!** 🎲✨  
 **Built with ❤️ by [Arvind Ranga](https://github.com/arvind69-devil)** 🐼  
