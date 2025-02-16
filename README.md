@@ -74,4 +74,5 @@ Thank you for being so supportive! ❤️
 Hi, I'm Arvind Ranga! I love building tools that make life easier. If you think this app is useful, I would appreciate it if you could consider supporting my work. Your donations help me create more awesome projects like this one! ❤️
 
 GitHub: @arvind69-devil
+
 Instagram: https://www.instagram.com/arvind_ranga_69
