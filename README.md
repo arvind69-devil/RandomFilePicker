@@ -33,7 +33,7 @@ Double-click `RandomFilePicker.exe` and enjoy! 🎉
 ## 👨💻 For Developers: Run from Source  
 
 ### 1. Clone the Repository  
-```bash
+
 git clone https://github.com/arvind69-devil/RandomFilePicker.git  
 cd RandomFilePicker
 
